@@ -1,0 +1,14 @@
+{
+  "name": "weebbot",
+  "version": "1.0.0",
+  "description": "Discord bot for Kowaii Weebo Trash discord server.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "allylavanda",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
